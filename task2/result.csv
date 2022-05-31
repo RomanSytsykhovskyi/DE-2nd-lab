@@ -1,0 +1,109 @@
+Brand,Model,Series,Processor,Processor_Gen,RAM,Hard_Disk_Capacity,OS,Rating,Price
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Windows 11 Home,3.7,39040.0
+DELL,Vostro,Missing,i5,11th,8.0,1 TB HDD,Windows 10 Home,3.6,50840.0
+ASUS,VivoBook,15,i3,10th,8.0,512 GB SSD,Windows 11 Home,4.3,37940.0
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Missing,4.4,44440.0
+ASUS,TUF,Gaming,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.5,57940.0
+ASUS,Ryzen,3,3250U,3rd,8.0,256 GB SSD,Windows 10 Home,4.3,35940.0
+DELL,Inspiron,Athlon,3050U,Missing,4.0,256 GB SSD,Windows 11 Home,4.2,33940.0
+DELL,Inspiron,Missing,i5,11th,16.0,512 GB SSD,Windows 10,4.2,69040.0
+Lenovo,IdeaPad,3,i3,10th,8.0,1 TB HDD,Windows 10 Home,4.1,37440.0
+Lenovo,IdeaPad,3,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.2,40940.0
+Lenovo,IdeaPad,3,i3,10th,8.0,256 GB SSD,Windows 11 Home,4.3,37940.0
+DELL,Inspiron,Ryzen,3250U,Missing,8.0,256 GB SSD,Windows 11 Home,4.3,37340.0
+HP,Ryzen,3,3250U,Missing,8.0,256 GB SSD,Windows 10 Home,4.3,38940.0
+Lenovo,IdeaPad,3,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.3,40940.0
+acer,Aspire,7,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.4,52940.0
+ASUS,VivoBook,Ultra,i3,11th,8.0,512 GB SSD,Windows 11 Home,4.8,42940.0
+Lenovo,Thinkpad,Ryzen,5600U,Missing,8.0,512 GB SSD,DOS,4.1,57440.0
+ASUS,Vivobook,14,i3,11th,8.0,256 GB SSD,Windows 10 Home,4.3,37840.0
+ASUS,VivoBook,15,Missing,Missing,4.0,256 GB SSD,Windows 10 Home,4.3,34940.0
+Lenovo,IdeaPad,3,5500U,Missing,8.0,512 GB SSD,Windows 11 Home,4.4,49940.0
+ASUS,VivoBook,15,i7,10th,16.0,512 GB SSD,Windows 11 Home,4.1,57940.0
+HP,Ryzen,3,5300U,Missing,8.0,512 GB SSD,Windows 11 Home,4.2,42740.0
+ASUS,VivoBook,15,i3,11th,4.0,256 GB SSD,Windows 10 Home,4.2,36940.0
+Lenovo,IdeaPad,3,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.3,39940.0
+ASUS,VivoBook,15,i3,10th,4.0,512 GB SSD,Windows 11 Home,4.2,35940.0
+DELL,Vostro,Missing,i3,11th,8.0,256 GB SSD,Windows 10,4.3,41740.0
+Lenovo,Ideapad,Slim,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.4,59940.0
+DELL,Inspiron,Missing,i3,11th,8.0,512 GB SSD,Windows 11 Home,4.4,45540.0
+DELL,Inspiron,Missing,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.3,41540.0
+Lenovo,Ideapad,Slim,i5,11th,8.0,512 GB SSD,Windows 10 Home,4.2,56449.0
+ASUS,VivoBook,15,i5,11th,8.0,1 TB HDD,Missing,4.3,52940.0
+DELL,Inspiron,Missing,i5,11th,8.0,512 GB SSD,Windows 11 Home,4.4,59150.0
+HP,Pavilion,Ryzen,5600H,Missing,8.0,512 GB SSD,Windows 11 Home,4.5,59940.0
+DELL,Inspiron,Ryzen,3450U,Missing,8.0,512 GB SSD,Windows 11 Home,4.3,49940.0
+APPLE,2020,Macbook,Missing,Missing,Missing,Missing,Missing,4.7,84940.0
+DELL,Vostro,3405,3450U,Missing,8.0,256 GB SSD,Windows 10 Home,4.2,44440.0
+MSI,GF63,Thin,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.5,65940.0
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Missing,4.4,45340.0
+DELL,Vostro,Missing,i3,10th,8.0,256 GB SSD,Windows 10 Home,4.3,41440.0
+ASUS,Vivobook,Gaming,i7,10th,8.0,512 GB SSD,Windows 10 Home,3.7,61940.0
+ASUS,ROG,Zephyrus,4800HS,Missing,8.0,1 TB SSD,Windows 10 Home,4.6,72940.0
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Windows 10,4.0,42540.0
+Lenovo,IdeaPad,3,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.3,50940.0
+ASUS,VivoBook,K15,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.5,46940.0
+acer,Nitro,Ryzen,5600H,Missing,8.0,1 TB HDD,Missing,4.5,72940.0
+Lenovo,IdeaPad,3,i5,11th,8.0,512 GB SSD,Windows 10 Home,4.2,56940.0
+ASUS,ASUS,TUF,i5,11th,8.0,512 GB SSD,Windows 10 Home,4.5,71940.0
+HP,HP,Pavilion,4600H,Missing,8.0,512 GB SSD,Windows 10 Home,4.4,59940.0
+HP,Pavilion,Gaming,4800H,Missing,16.0,1 TB HDD,Missing,4.5,75940.0
+ASUS,VivoBook,K15,i5,11th,16.0,1 TB HDD,Missing,4.7,66940.0
+ASUS,TUF,Gaming,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.6,89940.0
+realme,Book,(Slim),i3,11th,8.0,256 GB SSD,Windows 10 Home,4.4,46940.0
+MSI,Katana,GF66,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.4,76940.0
+DELL,Vostro,Ryzen,R3-3250U,Missing,Missing,Missing,Missing,3.9,37340.0
+ASUS,VivoBook,K15,i5,11th,16.0,1 TB HDD,Missing,4.3,65940.0
+Lenovo,Ideapad,Gaming,5600H,Missing,8.0,512 GB SSD,Windows 11 Home,4.5,60440.0
+APPLE,MacBook,Air,Missing,Missing,Missing,Missing,Missing,4.5,119940.0
+ASUS,Vivobook,14,i3,10th,8.0,1 TB HDD,Windows 10 Home,4.2,34940.0
+Lenovo,IdeaPad,Flex,i3,11th,8.0,512 GB SSD,Windows 10 Home,4.5,55940.0
+HP,Ryzen,5,Missing,Missing,8.0,512 GB SSD,Windows 11 Home,4.6,48940.0
+DELL,Inspiron,Ryzen,3450U,Missing,8.0,1 TB HDD,Missing,3.9,49240.0
+APPLE,MacBook,Air,Missing,Missing,Missing,Missing,Missing,4.5,105940.0
+DELL,Inspiron,Missing,i5,11th,16.0,512 GB SSD,Windows 10,4.4,67740.0
+ASUS,VivoBook,15,i3,10th,4.0,1 TB HDD,Windows 10 Home,3.7,31940.0
+HP,Notebook,PC,i3,11th,8.0,1 TB HDD,Windows 10,3.9,40940.0
+APPLE,2020,Macbook,Missing,Missing,Missing,Missing,Missing,4.7,110940.0
+APPLE,2020,Macbook,Missing,Missing,Missing,Missing,Missing,4.6,129990.0
+ASUS,Chromebook,Celeron,Missing,Missing,4.0,64 GB EMMC Storage,Chrome OS,4.2,23490.0
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Windows 11 Home,3.7,39090.0
+DELL,Vostro,Missing,i3,11th,4.0,1 TB HDD,Missing,4.1,43126.0
+Lenovo,IdeaPad,5,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.6,70940.0
+DELL,Inspiron,Missing,i3,11th,8.0,1 TB HDD,Missing,4.1,48940.0
+ASUS,Ryzen,5,5500U,Missing,8.0,512 GB SSD,Windows 10 Home,4.5,49940.0
+HP,Pavilion,Gaming,i7,11th,16.0,512 GB SSD,Windows 10 Home,4.4,98140.0
+Lenovo,IdeaPad,Slim,i3,11th,8.0,512 GB SSD,Windows 10 Home,4.4,45440.0
+DELL,Vostro,Missing,i3,10th,8.0,512 GB SSD,Windows 10,3.9,43040.0
+MICROSOFT,Surface,Laptop,i5,8th,8.0,128 GB SSD,Windows 10 Home,4.5,91949.0
+ASUS,ROG,Strix,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.6,75940.0
+ASUS,Vivobook,14,Missing,Missing,8.0,256 GB SSD,Windows 11 Home,4.3,32940.0
+HP,Envy,Missing,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.3,74940.0
+acer,Swift,3,i5,8th,8.0,1 TB HDD,Missing,4.6,59940.0
+DELL,Inspiron,Missing,i5,11th,8.0,1 TB HDD,Missing,4.2,63610.0
+HP,HP,Pavilion,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.5,71940.0
+Lenovo,IDEAPAD,3,AMD,Ryzen™,8.0,512 GB SSD,Windows 10,3.7,59850.0
+ASUS,ZenBook,Duo,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.4,114940.0
+ASUS,Vivobook,14,i3,11th,4.0,256 GB SSD,Windows 10 Home,4.2,36940.0
+Lenovo,Ideapad,Gaming,i5,10th,8.0,1 TB HDD,Missing,4.4,64940.0
+Lenovo,Ideapad,530s,i5,8th,8.0,512 GB SSD,Windows 10 Home,4.4,59949.0
+Lenovo,APU,Dual,A9,A99425,4.0,1 TB HDD,DOS,3.9,21846.0
+DELL,3000,Missing,i3,11th,8.0,1 TB HDD,Windows 11 Home,4.2,43850.0
+ASUS,Chromebook,Celeron,Missing,Missing,4.0,32 GB EMMC Storage,Chrome OS,3.6,17640.0
+HP,250-G6,Missing,i5,7th,4.0,1 TB HDD,DOS,4.2,46150.0
+acer,Travelmate,Missing,i5,11th,16.0,1 TB HDD,Missing,3.4,62440.0
+HP,15q,Missing,i3,7th,4.0,1 TB HDD,DOS,4.2,32905.0
+Lenovo,v15,Missing,i3,10th,4.0,1 TB HDD,DOS,3.1,39949.0
+ASUS,Vivobook,15,i3,11th,8.0,1 TB HDD,Windows 10 Home,2.9,42750.0
+acer,Aspire,Strix,4800H,Missing,16.0,32 GB EMMC Storage,chrome,0.3,48579.30209854344
+ASUS,TUF,TUF,5600H,3rd,16.0,256 GB SSD,chrome,4.3,46773.80943948806
+ASUS,Vivobook,Macbook,AMD,Ryzen™,8.0,32 GB EMMC Storage,Missing,1.6,43185.71594103883
+HP,HP,7,4600H,3rd,Missing,128 GB SSD,dos,1.0,44280.210090144814
+HP,Ryzen,5,4800H,11th,16.0,32 GB EMMC Storage,linux,0.1,58555.53301729492
+APPLE,2020,3,i7,3rd,4.0,128 GB SSD,windows,1.5,45275.688290281556
+MICROSOFT,Surface,5,i5,10th,4.0,32 GB EMMC Storage,Missing,0.9,50619.331925266146
+DELL,Inspiron,7,Missing,Ryzen™,8.0,1 TB HDD,linux,2.4,67649.65048801921
+HP,Notebook,Macbook,4600H,8th,8.0,1 TB HDD,Missing,5.0,61224.105606141115
+DELL,Vostro,Celeron,A9,11th,16.0,64 GB EMMC Storage,chrome,1.9,59275.541421725764
+Lenovo,APU,Macbook,i3,8th,4.0,1 TB SSD,windows,1.9,70364.86751246157
+HP,Ryzen,7,i7,Ryzen™,8.0,256 GB SSD,chrome,4.5,69640.88264553047
